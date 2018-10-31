@@ -1,4 +1,4 @@
-The system uses third party packages which are:\n
+The system uses third party packages which are:
 
 1. matplotlib
 2. numpy
@@ -7,7 +7,7 @@ The system uses third party packages which are:\n
 
 To install the third party packages listed above with Ubuntu, details are listed below:
 
-  Firstly, use command to update apt-get:
+   Firstly, use command to update apt-get:
 
     sudo apt-get update
 
